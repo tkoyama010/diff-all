@@ -1,1 +1,2 @@
 # diff-all
+TortoiseGitでの差分機能をTortoiseCVSで使用するためのバッチ
